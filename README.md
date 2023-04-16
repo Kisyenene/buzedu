@@ -1,4 +1,4 @@
-# buzedu
+# buzeduentreprise
 <p align="center">
   <img src="https://avatars2.githubusercontent.com/u/45050444?v=4" width="200" />
   <h1 align="center">buzeduentreprise</h1>
